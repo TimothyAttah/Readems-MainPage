@@ -1,0 +1,17 @@
+export const colors = {
+  mainPrimary: '#1C4EDF',
+  white: '#fff',
+  black: '#000',
+  neutralWhite: '#E0E0E0',
+  primary400: '#4971E5',
+  shadesDark: '#07080A',
+  neutralDark: '#858585',
+  darkPurple: '#1D1A27',
+  neutralLight: '#F0F0F0',
+  neutral700: '#333333',
+  neutral300: '#A3A3A3',
+  neutral600: '#4D4D4D',
+  primary50: '#E9EEFC',
+  primaryLight: '#7280FF',
+  shadesSecondary: '#F5843F',
+};
