@@ -10,10 +10,10 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    font-size: 10px;
+    font-size: 16px;
 
     @media screen and (max-width: 420px) {
-      font-size: 6px;
+      font-size: 10px;
     }
   }
 

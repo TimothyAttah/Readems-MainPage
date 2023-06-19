@@ -13,4 +13,5 @@ export const colors = {
   neutral600: '#4D4D4D',
   primary50: '#E9EEFC',
   primaryLight: '#7280FF',
+  shadesSecondary: '#F5843F',
 };
